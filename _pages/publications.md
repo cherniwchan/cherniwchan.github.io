@@ -18,5 +18,7 @@ author_profile: true
 * Do Environmental Regulations Affect the Decision to Export? with Nouri Najjar. [Download](https://www.freit.org/WorkingPapers/Papers/FirmLevelTrade/FREIT1605.pdf)
 * Intra-Industry Trade and the Environment, with Liang Chen. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939849)
 
-
+**Selected Works in Progress**
+* Is Free Trade Bad for Resources? with M. Scott Taylor.
+* Decompositions with Selected Samples, with Nouri Najjar.
 
