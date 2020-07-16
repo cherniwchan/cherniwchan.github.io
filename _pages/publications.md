@@ -15,7 +15,7 @@ author_profile: true
 
   
 **Working Papers**
-* Do Environmental Regulations Affect the Decision to Export? with Nouri Najjar. [Download](https://www.freit.org/WorkingPapers/Papers/FirmLevelTrade/FREIT1605.pdf)
+* Do Environmental Regulations Affect the Decision to Export? with Nouri Najjar. [Download](https://www.freit.org/WorkingPapers/Papers/FirmLevelTrade/FREIT1605.pdf) (R&amp;R *American Economic Journal: Economic Policy*)
 * Intra-Industry Trade and the Environment, with Liang Chen. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939849)
 
 **Selected Works in Progress**
