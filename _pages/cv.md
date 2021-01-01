@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My full [CV](http://cherniwchan.github.io/files/jevancherniwchan_CV_Sept_2020.pdf)
+My full [CV](http://cherniwchan.github.io/files/jevancherniwchan_CV_Jan_2021.pdf)
 
 **Education**
 * Ph.D. in Economics, University of Calgary, 2013.
