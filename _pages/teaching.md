@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+*Carleton University*
+* Trade and the Environment (graduate). 2021
+
 *University of Alberta*
 * Economic Foundations (MBA), 2018-2020
 * Business Economics (eMBA), 2018-2019
