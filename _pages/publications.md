@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Publications**
-* Do Environmental Regulations Affect the Decision to Export? with Nouri Najjar. *American Economic Journal: Economic Policy*, Forthcoming. [Download]https://www.aeaweb.org/articles?id=10.1257/pol.20200290&&from=f)
+* Do Environmental Regulations Affect the Decision to Export? with Nouri Najjar. *American Economic Journal: Economic Policy*, Forthcoming. [Download](https://www.aeaweb.org/articles?id=10.1257/pol.20200290&&from=f)
 * Environmental Regulations and the Clean-Up of Manufacturing: Plant-Level Evidence, with Nouri Najjar. *Review of Economics and Statistics*, Forthcoming. [Download](https://www.mitpressjournals.org/doi/abs/10.1162/rest_a_00904)
 * Maize and Precolonial Africa, with Juan Moreno-Cruz. *Journal of Development Economics*, Vol. 136, January 2019, 137-150. [Download](https://www.sciencedirect.com/science/article/pii/S0304387818303195)   **Media:** [Business Weekly](https://www.ebusinessweekly.co.zw/the-green-engine-of-economic-development-has-a-convoluted-history-in-southern-africa/), [National Affairs](https://nationalaffairs.com/blog/detail/findings-a-daily-roundup/growing), [Boston Globe](https://www.bostonglobe.com/ideas/2018/11/16/uncommonknowledge/eDwhphGTWwEoNLuLfWPkOK/story.html)
 * Trade and the Environment: New Methods, Measurements, and Results, with Brian R. Copeland and M. Scott Taylor, *Annual Review of Economics*, Vol. 9, August 2017, 59-85. [Download](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-063016-103756)
