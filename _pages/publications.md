@@ -16,6 +16,7 @@ author_profile: true
 
   
 **Working Papers**
+* Free Trade and the Formation of Environmental Policy: Evidence from US Legislative Votes. [Download](https://carleton.ca/economics/wp-content/uploads/cewp21-11-1.pdf)
 * Intra-Industry Trade and the Environment, with Liang Chen. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939849)
 
 **Selected Works in Progress**
