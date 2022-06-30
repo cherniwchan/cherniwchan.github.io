@@ -14,10 +14,11 @@ author_profile: true
 * Tariff Structure, Trade Expansion and Canadian Protectionism: 1870-1910, with Eugene Beaulieu, *Canadian Journal of Economics*, Vol. 47, No. 1, February 2014, 144-172. [Download](https://onlinelibrary.wiley.com/doi/abs/10.1111/caje.12065) **Media:** [Ottawa Citizen](https://ottawacitizen.com/news/politics/watson-what-sir-john-a-maybe-didnt-do-after-all), [Montreal Gazette](https://montrealgazette.com/news/national/opinion-maybe-sir-john-a-macdonalds-high-tariffs-dont-deserve-so-much-credit), [Financial Post](https://business.financialpost.com/opinion/william-watson-maybe-deflation-wouldnt-kill-the-economy)
 * Economic Growth, Industrialization and the Environment, *Resource and Energy Economics*, Vol. 34, No. 4, November 2012, 442-467. [Download](https://www.sciencedirect.com/science/article/pii/S0928765512000206)
 
+**Book Chapters**
+* International Trade and the Environment: Three Remaining Empirical Challenges, with M. Scott Taylor, *Oxford Research Encyclopedia of Economics and Finance*, forthcoming. [Download WP Version](https://www.nber.org/papers/w30020)
   
 **Working Papers**
 * Free Trade and the Formation of Environmental Policy: Evidence from US Legislative Votes, with Nouri Najjar. [Download](https://carleton.ca/economics/wp-content/uploads/cewp21-11-3.pdf)
-* International Trade and the Environment: Three Remaining Empirical Challenges, with M. Scott Taylor, [Download](https://www.nber.org/papers/w30020)
 * Intra-Industry Trade and the Environment, with Liang Chen. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939849)
 
 **Selected Works in Progress**
