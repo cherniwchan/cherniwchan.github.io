@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 *Carleton University*
-* Topics in International Economics (graduate), 2023-
-* Trade and the Environment (graduate), 2021-
+* Topics in International Economics (MA/PhD), 2023.
+* Trade and the Environment (MA/PhD), 2021-2023.
 
 *University of Alberta*
 * Economic Foundations (MBA), 2018-2020
