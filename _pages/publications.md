@@ -16,7 +16,7 @@ author_profile: true
 * Economic Growth, Industrialization and the Environment, *Resource and Energy Economics*, Vol. 34, No. 4, November 2012, 442-467. [Download](https://www.sciencedirect.com/science/article/pii/S0928765512000206)
   
 **Working Papers**
-* Free Trade and the Formation of Environmental Policy: Evidence from US Legislative Votes, with Nouri Najjar. [Download](https://carleton.ca/economics/wp-content/uploads/cewp21-11-3.pdf)
+* Free Trade and the Formation of Environmental Policy: Evidence from US Legislative Votes, with Nouri Najjar. (Conditionally Accepted, *American Economic Journal: Economic Policy*) [Download](https://ideas.repec.org/p/mcm/deptwp/2023-05.html)
 * Intra-Industry Trade and the Environment, with Liang Chen. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939849)
 
 **Selected Works in Progress**
