@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Publications**
+* Free Trade and the Formation of Environmental Policy: Evidence from US Legislative Votes, with Nouri Najjar, *American Economic Journal: Economic Policy*, Vol. 17, No. 2, May 2025, 224-258. [Download](https://www.aeaweb.org/articles?id=10.1257/pol.20230733)
 * International Trade and the Environment: Three Remaining Empirical Challenges, with M. Scott Taylor, *Oxford Research Encyclopedia of Economics and Finance*, November 2022. [Download](https://doi.org/10.1093/acrefore/9780190625979.013.716), [Download WP Version](https://www.nber.org/papers/w30020)
 * Do Environmental Regulations Affect the Decision to Export? with Nouri Najjar. *American Economic Journal: Economic Policy*, Vol. 14, No. 2, May 2022, 125-160. [Download](https://www.aeaweb.org/articles?id=10.1257/pol.20200290&&from=f)
 * Environmental Regulations and the Clean-Up of Manufacturing: Plant-Level Evidence, with Nouri Najjar. *Review of Economics and Statistics*, Vol. 103, No. 3, July 2021, 476-491. [Download](https://doi.org/10.1162/rest_a_00904)
@@ -16,10 +17,12 @@ author_profile: true
 * Economic Growth, Industrialization and the Environment, *Resource and Energy Economics*, Vol. 34, No. 4, November 2012, 442-467. [Download](https://www.sciencedirect.com/science/article/pii/S0928765512000206)
   
 **Working Papers**
-* Free Trade and the Formation of Environmental Policy: Evidence from US Legislative Votes, with Nouri Najjar. (Conditionally Accepted, *American Economic Journal: Economic Policy*) [Download](https://ideas.repec.org/p/mcm/deptwp/2023-05.html)
+* Geography and the Technique Effect: Evidence from Canada, with Kevin Andrew, Mamoon Kader, and Hashmat Kahn. [Download](http://socialsciences.mcmaster.ca/econ/rsrch/papers/archive/2024-08.pdf) (revise and resubmit)
+
+**Resting Papers**
 * Intra-Industry Trade and the Environment, with Liang Chen. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939849)
 
 **Selected Works in Progress**
-* Is Free Trade Bad for Resources? with M. Scott Taylor.
-* Decompositions with Selected Samples, with Nouri Najjar.
+* Sample Bias in Decompositions of Economic Dynamics, with Nouri Najjar
+* Energy Transitions in the Long Run: Evidence from English Coal, with Juan Moreno-Cruz
 
