@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*McMaster University
+*McMaster University*
 * Environmental Economics (MA/PhD), 2024-present.
 * Environmental Economics (undergraduate), 2024-present.
 
