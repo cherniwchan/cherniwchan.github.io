@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+*McMaster University
+* Environmental Economics (MA/PhD), 2024-present.
+* Environmental Economics (undergraduate), 2024-present.
+
 *Carleton University*
 * Topics in International Economics (MA/PhD), 2023.
 * Trade and the Environment (MA/PhD), 2021-2023.
