@@ -18,11 +18,11 @@ author_profile: true
   
 **Working Papers**
 * Geography and the Technique Effect: Evidence from Canada, with Kevin Andrew, Mamoon Kader, and Hashmat Kahn. [Download](http://socialsciences.mcmaster.ca/econ/rsrch/papers/archive/2024-08.pdf) (revise and resubmit)
+* Sample Bias in Decompositions of Economic Dynamics, with Nouri Najjar [Download](http://cherniwchan.github.io/files/cherniwchan_najjar_march_2026.pdf)
 
 **Resting Papers**
 * Intra-Industry Trade and the Environment, with Liang Chen. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939849)
 
 **Selected Works in Progress**
-* Sample Bias in Decompositions of Economic Dynamics, with Nouri Najjar
 * Energy Transitions in the Long Run: Evidence from English Coal, with Juan Moreno-Cruz
 
